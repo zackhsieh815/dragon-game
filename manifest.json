@@ -1,0 +1,8 @@
+{
+"name":"龍者鬥惡龍",
+"short_name":"龍鬥龍",
+"display":"standalone",
+"start_url":"index.html",
+"background_color":"#111111",
+"theme_color":"#8b0000"
+}
